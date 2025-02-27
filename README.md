@@ -23,8 +23,10 @@ This repository, `ist722dbt`, contains my work from the *Building Data Pipelines
 - **SQL**: Core language for defining transformations.
 
 ## Screenshots
-- **dbt Cloud UI**: Displays the `models` folder contents from the `quickstart` project. *(Insert screenshot here)*
-- **Data Lineage**: Generated documentation showing the flow from sources to targets. *(Insert screenshot here)*
+- **dbt Cloud UI**: Displays the `models` folder contents from the `quickstart` project. 
+- **Data Lineage**: Generated documentation showing the flow from sources to targets.
+  
+![dbt Cloud Models](https://github.com/gudashashank/ist722dbt/raw/main/cloud_models.jpg)
 
 ## How to Explore
 1. Clone this repository: `git clone https://github.com/gudashashank/ist722dbt.git`
