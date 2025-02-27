@@ -1,4 +1,4 @@
-# IST722 - dbt Cloud Data Pipeline Project
+# IST722 - dbt Cloud Data Pipeline Assignment
 
 ## Overview
 This repository, `ist722dbt`, contains my work from the *Building Data Pipelines in dbt Cloud* assignment as part of my coursework at Syracuse University. Using dbt Cloud and Snowflake, I built and managed data pipelines, demonstrating skills in data transformation, ELT processes, and version control. The project is organized into subdirectories (`quickstart` and `demo`) to separate different pipeline activities.
